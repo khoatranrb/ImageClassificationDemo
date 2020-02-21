@@ -1,0 +1,10 @@
+name: clsDemo
+dependencies:
+  - python=3.7
+  - pip
+  - dash
+  - tensorflow=1.14
+  - keras
+  - gunicorn
+  - pip:
+    - opencv-contrib-python
